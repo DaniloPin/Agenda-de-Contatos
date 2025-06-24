@@ -7,7 +7,7 @@ O sistema informe se o contato foi adicionado ou recusado, para que outras parte
 Então para isso, criei:
 
 - Uma classe Contato, com:
-- Propriedades públicas Nome e Telefone.
+    - Propriedades públicas Nome e Telefone.
   
 - Uma classe Agenda, com:
     - Propriedade pública Proprietario.
