@@ -1,4 +1,4 @@
-Desenvolvi um sistema de agenda pessoal. Cada agenda pode conter vários contatos, mas você quero garantir que:
+Desenvolvi um sistema de agenda pessoal. Cada agenda pode conter vários contatos, mas quero garantir que:
 
 A lista de contatos não possa ser acessada nem modificada diretamente por fora da classe.
 Nenhum contato com o mesmo nome seja adicionado duas vezes.
